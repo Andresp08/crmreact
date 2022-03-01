@@ -1,0 +1,76 @@
+{
+  "clientes": [
+    {
+      "nombre": "Andres Pardo",
+      "empresa": "Andresoft",
+      "email": "Andrespardo@unisangil.edu.co",
+      "telefono": "3118340199",
+      "notas": "Prueba",
+      "id": 1
+    },
+    {
+      "nombre": "Juan Charrasqueado",
+      "empresa": "Charracas",
+      "email": "Cha@gmail.com",
+      "telefono": "3118340199",
+      "notas": "Prueba 2",
+      "id": 2
+    },
+    {
+      "nombre": "Martin Estrada",
+      "empresa": "Conteras",
+      "email": "mtc@gmail.com",
+      "telefono": "3118340199",
+      "notas": "Un tahur profeta",
+      "id": 3
+    },
+    {
+      "nombre": "Omar suarez",
+      "empresa": "omicrols",
+      "email": "omit@gmail.com",
+      "telefono": "3147865432",
+      "notas": "Hola soy omar",
+      "id": 4
+    },
+    {
+      "nombre": "Yerys Pinto",
+      "empresa": "YerysSoft",
+      "email": "Yeris@email.com",
+      "telefono": "3118969696",
+      "notas": "Hola, soy yerys",
+      "id": 5
+    },
+    {
+      "nombre": "Martin Estrada",
+      "empresa": "Conteras",
+      "email": "mtc@gmail.com",
+      "telefono": "3118340199",
+      "notas": "Un tahur profeta",
+      "id": 6
+    },
+    {
+      "nombre": "Martin ",
+      "empresa": "Conteras",
+      "email": "mtc@gmail.com",
+      "telefono": "3118340199",
+      "notas": "Un tahur profeta",
+      "id": 7
+    },
+    {
+      "nombre": "Nuevo Registro",
+      "empresa": "Nrely",
+      "email": "nrely@gmail.com",
+      "telefono": "3147865432",
+      "notas": "Nuevo registro",
+      "id": 8
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Codigo",
+      "email": "edgar@col.com",
+      "telefono": "3118393939",
+      "notas": "Necesita un servidor\n",
+      "id": 9
+    }
+  ]
+}
