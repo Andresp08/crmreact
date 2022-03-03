@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan Charrasqueado",
-      "empresa": "Charracas",
-      "email": "Cha@gmail.com",
-      "telefono": "3118340199",
-      "notas": "Prueba 2",
-      "id": 2
-    },
-    {
       "nombre": "Martin Estrada",
       "empresa": "Conteras",
       "email": "mtc@gmail.com",
